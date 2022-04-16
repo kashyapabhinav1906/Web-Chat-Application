@@ -38,5 +38,3 @@ Safari and IE are not supported!
 * npm basics
 * Gathering front-end and back-end together
 
-# License 📑 
-(c) 2020 Ilya Revenko. [MIT License](https://tldrlegal.com/license/mit-license)
