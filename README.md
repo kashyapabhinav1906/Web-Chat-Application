@@ -22,8 +22,8 @@ Safari and IE are not supported!
 <img src="https://i.imgur.com/J7le3tt.jpg">
 
 # Quick Start 🚀
-```git clone https://github.com/irevenko/artichoke-chat.git```<br>
-```cd artichoke-chat```<br>
+```git clone https://github.com/kashyapabhinav1906/Web-Chat-Application```<br>
+```cd Web-Chat-Application```<br>
 ```npm install```<br>
 ```npm start  or  nodemon server.js```<br>
 ```go to localhost:3000```
